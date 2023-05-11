@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Our Blog</title>
+    <link href="http://www.epfundao.edu.pt/blog/1"/>
+    <id>http://www.epfundao.edu.pt/blog/1</id>
+    <updated>2023-04-30T01:45:14Z</updated>
+    <entry>
+        <title>New Blog</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/new-blog-48"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/new-blog-48</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-30T01:45:14Z</updated>
+    </entry><entry>
+        <title>EPF vence prémios para melhor aluno do Ensino Profissional e dos Cursos Educação Formação</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-vence-premios-para-melhor-aluno-do-ensino-profissional-e-dos-cursos-educacao-formacao-44"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-vence-premios-para-melhor-aluno-do-ensino-profissional-e-dos-cursos-educacao-formacao-44</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-30T15:40:39Z</updated>
+    </entry><entry>
+        <title>Abertura do Ano Escolar 2020/2021</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/abertura-do-ano-escolar-2020-2021-43"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/abertura-do-ano-escolar-2020-2021-43</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-29T02:01:29Z</updated>
+    </entry><entry>
+        <title>28º aniversário da Escola Profissional do Fundão</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/28o-aniversario-da-escola-profissional-do-fundao-42"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/28o-aniversario-da-escola-profissional-do-fundao-42</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-27T18:52:54Z</updated>
+    </entry><entry>
+        <title>EPF na Sessão Solene do 25 de abril</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-na-sessao-solene-do-25-de-abril-33"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-na-sessao-solene-do-25-de-abril-33</id>
+        <author><name>António Jorge Reis Gamboa</name></author>
+        <summary></summary>
+        <updated>2023-04-29T04:33:45Z</updated>
+    </entry><entry>
+        <title>EPF presente na Feira dos Sabores do Tejo</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-presente-na-feira-dos-sabores-do-tejo-25"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-presente-na-feira-dos-sabores-do-tejo-25</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>Curso de Técnico de Restauração da EPF na Feira dos Sabores do Tejo</summary>
+        <updated>2023-04-30T11:08:55Z</updated>
+    </entry><entry>
+        <title>Restaurante Pedagógico</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/restaurante-pedagogico-22"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/restaurante-pedagogico-22</id>
+        <author><name>System Administrator</name></author>
+        <summary>Projeto vencedor do OP Jovem 2017</summary>
+        <updated>2023-04-30T01:10:31Z</updated>
+    </entry><entry>
+        <title>XIV festival gastronómico da cereja</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/xiv-festival-gastronomico-da-cereja-21"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/xiv-festival-gastronomico-da-cereja-21</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>XIV festival gastronómico da cereja</summary>
+        <updated>2023-04-27T18:53:48Z</updated>
+    </entry><entry>
+        <title>Escola assegura porto de honra na 2ª Mostra de Freguesias</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/escola-assegura-porto-de-honra-na-2a-mostra-de-freguesias-20"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/escola-assegura-porto-de-honra-na-2a-mostra-de-freguesias-20</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>alunos servem porto de honra em mais um evento da cidade</summary>
+        <updated>2023-04-27T18:54:07Z</updated>
+    </entry><entry>
+        <title>2ª mostra de freguesias na av. da liberdade - fundão</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/2a-mostra-de-freguesias-na-av-da-liberdade-fundao-19"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/2a-mostra-de-freguesias-na-av-da-liberdade-fundao-19</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>escola divulgou a sua actividade e oferta formativa, destacando-se com os diversos showcooking</summary>
+        <updated>2023-04-27T18:54:24Z</updated>
+    </entry><entry>
+        <title>epf participa na 7ª edição das escolas solidárias 2017</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-participa-na-7a-edicao-das-escolas-solidarias-2017-18"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-participa-na-7a-edicao-das-escolas-solidarias-2017-18</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>escola marca presença no encontro nacional de escolas solidárias no parque das nações</summary>
+        <updated>2023-04-27T18:54:41Z</updated>
+    </entry><entry>
+        <title>1º ano do curso técnico de gestão do ambiente</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/1o-ano-do-curso-tecnico-de-gestao-do-ambiente-17"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/1o-ano-do-curso-tecnico-de-gestao-do-ambiente-17</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>Turma desenvolveu workshop de sensibilização para reutilização de materiais</summary>
+        <updated>2023-04-27T18:54:58Z</updated>
+    </entry><entry>
+        <title>epf marca presença na festa da cereja</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-marca-presenca-na-festa-da-cereja-16"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/epf-marca-presenca-na-festa-da-cereja-16</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>forte presença da epf na festa da cereja em alcongosta</summary>
+        <updated>2023-04-30T01:21:40Z</updated>
+    </entry><entry>
+        <title>festa da cereja em alcongosta</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/festa-da-cereja-em-alcongosta-12"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/festa-da-cereja-em-alcongosta-12</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>showcooking de pastelaria para crianças</summary>
+        <updated>2023-04-27T18:55:31Z</updated>
+    </entry><entry>
+        <title>festa da cereja</title>
+        <link href="http://www.epfundao.edu.pt/blog/our-blog-1/post/festa-da-cereja-11"/>
+        <id>http://www.epfundao.edu.pt/blog/our-blog-1/post/festa-da-cereja-11</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>Showcooking da epf</summary>
+        <updated>2023-04-27T18:55:46Z</updated>
+    </entry>
+</feed>

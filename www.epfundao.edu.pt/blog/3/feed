@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>No País e na Eurpa</title>
+    <link href="http://www.epfundao.edu.pt/blog/3"/>
+    <id>http://www.epfundao.edu.pt/blog/3</id>
+    <updated>2023-04-30T00:38:22Z</updated>
+    <entry>
+        <title>xxx</title>
+        <link href="http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/xxx-46"/>
+        <id>http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/xxx-46</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-30T00:38:22Z</updated>
+    </entry><entry>
+        <title>EPF no Programa da RTP &quot;A Nossa Tarde&quot;</title>
+        <link href="http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/epf-no-programa-da-rtp-a-nossa-tarde-45"/>
+        <id>http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/epf-no-programa-da-rtp-a-nossa-tarde-45</id>
+        <author><name>Luis Oliveira</name></author>
+        <summary></summary>
+        <updated>2023-04-30T00:02:32Z</updated>
+    </entry><entry>
+        <title>Assembleia geral centro anespo</title>
+        <link href="http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/assembleia-geral-centro-anespo-15"/>
+        <id>http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/assembleia-geral-centro-anespo-15</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>Assembleia decorreu na escola profissional de rio maior</summary>
+        <updated>2023-04-27T23:14:45Z</updated>
+    </entry><entry>
+        <title>reunião erasmus+</title>
+        <link href="http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/reuniao-erasmus-9"/>
+        <id>http://www.epfundao.edu.pt/blog/no-pais-e-na-eurpa-3/post/reuniao-erasmus-9</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>Epf reúne com parceiros espanhois</summary>
+        <updated>2023-04-29T23:18:07Z</updated>
+    </entry>
+</feed>

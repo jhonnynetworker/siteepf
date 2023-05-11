@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Emprego e Formação</title>
+    <link href="http://www.epfundao.edu.pt/blog/2"/>
+    <id>http://www.epfundao.edu.pt/blog/2</id>
+    <updated>2023-04-30T09:50:33Z</updated>
+    <entry>
+        <title>Novos Cursos</title>
+        <link href="http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/novos-cursos-23"/>
+        <id>http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/novos-cursos-23</id>
+        <author><name>System Administrator</name></author>
+        <summary>EPF tem dois novos cursos</summary>
+        <updated>2023-04-30T09:50:33Z</updated>
+    </entry><entry>
+        <title>ideia de negócio premiada</title>
+        <link href="http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/ideia-de-negocio-premiada-14"/>
+        <id>http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/ideia-de-negocio-premiada-14</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>jovens da epf para a inovação</summary>
+        <updated>2023-04-27T23:12:52Z</updated>
+    </entry><entry>
+        <title>feira &quot;olá emprego&quot;</title>
+        <link href="http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/feira-ola-emprego-13"/>
+        <id>http://www.epfundao.edu.pt/blog/emprego-e-formacao-2/post/feira-ola-emprego-13</id>
+        <author><name>Suzana Elvas</name></author>
+        <summary>epf marca presença na 3ª edição da feira</summary>
+        <updated>2023-04-27T23:13:09Z</updated>
+    </entry>
+</feed>

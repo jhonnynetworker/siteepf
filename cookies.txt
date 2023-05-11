@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.epfundao.edu.pt	TRUE	/	FALSE	1999999999	website_lang	pt_PT
+www.epfundao.edu.pt	TRUE	/	FALSE	1999999999	session_id	5fa12bff29b6266c050c13f570ace3c6bac07205
+
